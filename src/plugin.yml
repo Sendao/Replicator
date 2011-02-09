@@ -1,0 +1,5 @@
+name: Replicator
+
+main: com.bukkit.Sendao.Replicator
+
+version: 0.1
